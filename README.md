@@ -32,6 +32,5 @@ A modern **React Movie App** powered by **The Movie Database (TMDB) API**, allow
 Author
 
 Rodney Nyolmo
-📧 nyolmorodney@gmail.com
-]
-🌐 GitHub: https://github.com/Nyolmo
+nyolmorodney@gmail.com
+GitHub: https://github.com/Nyolmo
