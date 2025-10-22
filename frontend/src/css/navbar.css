@@ -18,6 +18,7 @@
   font-weight: bold;
   color: #ff3e00;
   text-decoration: none;
+  padding-bottom: 5px;
 }
 
 .nav-link {
@@ -29,4 +30,14 @@
 
 .nav-link:hover {
   color: #ff3e00;
+}
+
+.navbar-icon {
+  width: 40px;
+  height: 40px;
+  border-radius: 8px;
+  margin-right: 10px;
+  margin-top: 5px;
+  align-items: center;
+  
 }
