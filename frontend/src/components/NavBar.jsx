@@ -5,7 +5,7 @@ function NavBar(){
     return(
         <nav className="navbar">
             <div className="navbar-brand">
-                <Link to="/">Movie App </Link>
+                <Link to="/">Movie Explorer </Link>
             </div>
             <div>
                 <Link to="/" className="nav-link">Home</Link>
